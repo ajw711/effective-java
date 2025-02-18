@@ -1,4 +1,4 @@
-package hello.effective_java.chap01;
+package hello.effective_java.chap01.item01;
 
 import hello.effective_java.chap01.item01.Member;
 import org.junit.jupiter.api.DisplayName;
